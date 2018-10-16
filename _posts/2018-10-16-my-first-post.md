@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "第一篇博客"
+categories: [blog, travel]
+tags: [hot, summer]
 ---
 ![test](http://qiniu.mcgoldfish.com/image/1/zMjU3TpS1hhxmiwbwqBlIDH5WECCwC8Sh5ElaNAi.jpeg)
 ## 目前正在学的语言

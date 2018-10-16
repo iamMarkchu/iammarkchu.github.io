@@ -5,7 +5,7 @@
 
 # Site
 title: Mark's Blog
-subtitle:  程序猿
+subtitle:  stay hungry, stay foolish
 description:
 author: Mark Chu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "PHP, Laravel, Ubuntu"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.

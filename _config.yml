@@ -122,8 +122,8 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  sitemap: /sitemap.xml
-  commonweal: /404.html
+  # sitemap: /sitemap.xml
+  # commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -409,7 +409,7 @@ changyan:
 
 # Support for gitalk comments system.
 gitalk:
-  enable: false
+  enable: true
   clientID: 58625aa85a471d0d25fe
   clientSecret: 125ba75c5d84b4467f61354f57beb0f66c272c0b
   repo: iammarkchu.github.io

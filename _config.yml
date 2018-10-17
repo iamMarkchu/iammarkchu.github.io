@@ -76,7 +76,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: /assets/favicon.png
 
 # Set default keywords (Use a comma to separate)
 keywords: "PHP, Laravel, Ubuntu"
@@ -226,14 +226,14 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
+  GitHub: https://github.com/iamMarkchu/
   Twitter: twitter
   Weibo: weibo
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: http://qiniu.mcgoldfish.com/image/1/pZNYrxXy6Cb5UiKmNkxti2EHKupDyrP65gdprjjX.jpeg
 
 
 # Table Of Contents in the Sidebar
@@ -483,7 +483,7 @@ vkontakte_api:
   enable: false
   app_id:       #<app_id>
   like:         true
-  comments:     true
+  commetns:     true
   num_of_posts: 10
 
 # Star rating support to each article.

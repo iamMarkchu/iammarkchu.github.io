@@ -4,3 +4,22 @@ title: "laravel优化"
 categories: ["laravel", "php"]
 tags: ["系统优化"]
 ---
+
+![laravel](http://qiniu.mcgoldfish.com/image/1/kwgALnRPA6RZDTqtSUp88fRiQkWjcMMVb8peV4Y3.png)
+在使用laravel时，没有人不被它优雅的语法以及高效率的开发所折服，但是它框架重，性能比较一般也是为人所诟病的点，我在实际项目中，前期开发程序，美滋滋，可突然有一天，流量突增，导致cpu，内存压力很大，php-fpm进程处理不过来，nginx返回499以及502等状态码
+
+## 典型场景
+  一个典型的laravel应用流程是，请求到达负载均衡，分发到nginx，nginx pass到php-fpm，laravel框架加载类(核心)，加载配置，路由分发，控制器代码，数据库操作，响应返回
+  
+## 可以优化的地方
+
+### 增加机器, 增加单台机器的配置
+物理方法，也是最直接，最有效，改动不大的操作。缺点就是金钱成本的增加，运维成本的增加
+
+### php-fpm参数优化
+### 开启Opcache
+### laravel 优化加载类
+### laravel 配置缓存
+### laravel 路由缓存
+### 数据库查询操作缓存到redis
+### 耗时操作，改为异步队列执行

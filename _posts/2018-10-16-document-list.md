@@ -5,11 +5,15 @@ categories: [程序开发]
 tags: [文档]
 ---
 
-程序开发手边必备
+程序开发手边必备, 不定时更新！
 
-## 文档地址列表
+## GO
+- [Golang文档](https://golang.org/doc/)
+- [Golang包](https://golang.org/pkg/)
+- [Go Redis包](https://github.com/go-redis/redis)
+- [Gin](https://github.com/gin-gonic/gin)  // go web框架
 
-### PHP
+## PHP
 
 - [PHP](http://php.net/manual/en/) php官方文档英文版
 - [Composer](https://getcomposer.org/doc/)
@@ -17,22 +21,22 @@ tags: [文档]
 - [Guzzle](http://guzzle-cn.readthedocs.io/zh_CN/latest/)
 - [PHP Swoole](https://wiki.swoole.com/wiki/index/prid-1) Swoole, 一个php异步编程扩展
 
-### Laravel
+## Laravel
 
 - [Laravel](https://laravel.com/docs) laravel官方文档
 - [Laravel Passport](https://laravel.com/docs/5.6/passport)
 - [Laravel Horizon](https://laravel.com/docs/5.6/horizon)
 
-### 用到的框架
+## 用到的框架
 
 - [scrapy](https://docs.scrapy.org/en/latest/)
 
-### 命令参考
+## 命令参考
 
 - [Redis Commands](https://redis.io/commands/)  Redis 命令查询
 - [Linux 命令](http://man.linuxde.net/) Linux命令查询
 
-### 软件类
+## 软件类
 
 - [MySQL](https://dev.mysql.com/doc) Mysql 官方文档
 - [Httpd](http://httpd.apache.org/docs/)  Httpd 官方文档
@@ -46,7 +50,7 @@ tags: [文档]
 - [Redis](https://redis.io/documentation)
 
 
-### 前端
+## 前端
 
 - [Html 5](https://www.quanzhanketang.com/html/default.html) html5 w3cSchool教程
 - [nvm](https://github.com/creationix/nvm)  node版本管理工具
@@ -62,15 +66,19 @@ tags: [文档]
 
 
 
-### 国内镜像
+## 国内镜像
 
 - [Docker 中国官方镜像加速](https://www.docker-cn.com/registry-mirror)
 
-- [Composer 中国镜像](https://www.phpcomposer.com/)
+- [Composer中国镜像](https://www.phpcomposer.com/)
+- [Laravel China Composer中国镜像](https://laravel-china.org/composer)
 
 - [NPM 淘宝镜像](https://npm.taobao.org/)
 
 
-### 科学上网
+## 科学上网
 
-- [Shadowsocks](https://wiki.archlinux.org/index.php/Shadowsocks_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
+- [Shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
+- [Shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
+- [Shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+- [Shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager)
